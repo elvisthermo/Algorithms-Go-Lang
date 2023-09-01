@@ -6,4 +6,6 @@ this repository brings together some classic algorithms implemented with Golang
 
 - [Bubble Sort](#bubble-sort)
 - [Insertion Sort](#insertion-sort)
-- [Selection Sort](#selection-sort)
+- [Quick Sort](#quick-sort)
+- [Merge Sort](#merge-sort)
+  
